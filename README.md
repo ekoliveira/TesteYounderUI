@@ -11,11 +11,6 @@ Front-End:
  - Bootstrap 4
  - HashLocationStrategy
 
-Teste:
-
- - xUnit
- - Moq
-
 **Passo-a-Passo para execução:**
 
 Execução do front-end:
